@@ -8,9 +8,7 @@ html,body{
 	font-family: 微软雅黑, sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
-body{
-	width: 100%;
-}
+
 span{
 	cursor: pointer;
 }
